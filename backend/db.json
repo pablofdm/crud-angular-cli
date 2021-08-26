@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Lapiseira Compact",
+            "price": 10.59
+        },
+        {
+            "id": 3,
+            "name": "Notebook Acer",
+            "price": 1999.90
+        },
+        {
+            "id": 4,
+            "name": "Papel A4",
+            "price": 12.89
+        },
+        {
+            "id": 5,
+            "name": "Mochila Topper",
+            "price": 129.99
+        }
+    ]
+}
