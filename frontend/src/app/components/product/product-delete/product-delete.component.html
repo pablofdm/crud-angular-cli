@@ -1,0 +1,11 @@
+<mat-card>
+    <mat-card-title>Deletar Produto</mat-card-title>
+    <h4>Você gostaria de deletar o produto <b>{{ product.name }}? </b></h4>
+</mat-card>
+
+<button mat-raised-button (click)="deleteProduct()" color="primary">
+    Sim
+</button>
+<button mat-raised-button routerLink="/products" color="danger">
+    Não
+</button>
